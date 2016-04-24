@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fabiannanez.salvame.MainActivity"
+    android:orientation="vertical"
+    android:background="#99d9EA">
+ 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="22dp"
+        >
+
+
+            <ImageButton
+                android:id="@+id/audio"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/audi"
+                />
+
+            <ImageButton
+                android:id="@+id/texto"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/sms"
+                />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+            <ImageButton
+            android:id="@+id/ayuda"
+            android:layout_width="match_parent"
+            android:layout_height="332dp"
+            android:background="@drawable/ayuda" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
