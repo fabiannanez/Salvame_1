@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Salvame</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="escribe_tu_mensaje">ESCRIBE TU MENSAJE</string>
 </resources>
