@@ -25,8 +25,8 @@
     <ImageButton
 
         android:id="@+id/grabar"
-        android:layout_width="@dimen/semGrande"
-        android:layout_height="@dimen/semGrande"
+        android:layout_width="@dimen/medium"
+        android:layout_height="@dimen/medium"
         android:backgroundTint="@color/Blanco"
         android:background="@drawable/audio_micro"
         android:layout_gravity="center"
