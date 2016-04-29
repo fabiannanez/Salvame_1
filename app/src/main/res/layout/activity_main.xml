@@ -14,9 +14,8 @@
  
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="horizontal"
-        android:layout_margin="@dimen/pequeños"
         >
 
 
@@ -37,24 +36,16 @@
                 android:background="@drawable/txt"
                 />
 
-    </RelativeLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:weightSum="1"
-        >
-
-            <ImageButton
+        <ImageButton
             android:id="@+id/ayuda"
             android:layout_gravity="center"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="@drawable/ball_red" />
+            android:layout_width="@dimen/semedio"
+            android:layout_height="@dimen/semedio"
+            android:background="@drawable/ball_red"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
 
-
-    </LinearLayout>
+    </RelativeLayout>
 
 
 </LinearLayout>

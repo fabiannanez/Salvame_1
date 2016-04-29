@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,17 +10,18 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.fabiannanez.salvame.Msm"
     android:background="@drawable/bordes_botones"
-    android:orientation="vertical"
     >
 
     <TextView
         android:gravity="center"
         style="@style/TextAppearance.AppCompat.Display3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="@dimen/semGrande"
+        android:layout_height="match_parent"
         android:text="GRABA TU MENSAJE"
         android:textColor="@color/Blanco"
-        android:layout_margin="20dp"
+        android:layout_margin="@dimen/pequeños"
+        android:id="@+id/textView"
+        android:layout_alignParentLeft="true"
         />
 
     <ImageButton
@@ -29,7 +31,8 @@
         android:layout_height="@dimen/medium"
         android:backgroundTint="@color/Blanco"
         android:background="@drawable/audio_micro"
-        android:layout_gravity="center"
-        />
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView" />
 
-</LinearLayout>
+</RelativeLayout>

@@ -5,4 +5,6 @@
     <dimen name="pequeños">22dp</dimen>
     <dimen name="medium">100dp</dimen>
     <dimen name="semGrande">320dp</dimen>
+    <dimen name="semedio">290dp</dimen>
+
 </resources>

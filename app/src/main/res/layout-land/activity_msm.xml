@@ -17,7 +17,6 @@
         android:layout_height="@dimen/medium"
         android:backgroundTint="@color/Blanco"
         android:background="@drawable/txt"
-        android:textcolor="@color/Blanco"
         android:layout_gravity="center"
         />
 
@@ -26,6 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/escribe_tu_mensaje"
+        android:textColor="@color/Blanco"
         android:textColorHint="@color/Blanco"
         />
     <Button
@@ -36,6 +36,7 @@
         android:text="@string/enviar"
         android:textColor="@color/Blanco"
         android:background="@color/gris"
+
         />
 
 

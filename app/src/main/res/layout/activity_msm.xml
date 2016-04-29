@@ -17,7 +17,6 @@
         android:layout_height="@dimen/medium"
         android:backgroundTint="@color/Blanco"
         android:background="@drawable/txt"
-        android:textcolor="@color/Blanco"
         android:layout_gravity="center"
         />
 
@@ -27,6 +26,7 @@
         android:layout_height="wrap_content"
         android:hint="@string/escribe_tu_mensaje"
         android:textColorHint="@color/Blanco"
+        android:textColor="@color/Blanco"
         />
     <Button
         android:id="@+id/enviar"

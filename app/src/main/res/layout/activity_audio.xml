@@ -14,19 +14,19 @@
 
     <TextView
         android:gravity="center"
-        style="@style/TextAppearance.AppCompat.Display3"
+        style="@style/TextAppearance.AppCompat.Display2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="GRABA TU MENSAJE"
         android:textColor="@color/Blanco"
-        android:layout_margin="20dp"
+        android:layout_margin="@dimen/pequeños"
         />
 
     <ImageButton
 
         android:id="@+id/grabar"
-        android:layout_width="@dimen/semGrande"
-        android:layout_height="@dimen/semGrande"
+        android:layout_width="@dimen/medium"
+        android:layout_height="@dimen/medium"
         android:backgroundTint="@color/Blanco"
         android:background="@drawable/audio_micro"
         android:layout_gravity="center"
