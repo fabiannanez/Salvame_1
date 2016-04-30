@@ -6,5 +6,7 @@
     <dimen name="medium">100dp</dimen>
     <dimen name="semGrande">320dp</dimen>
     <dimen name="semedio">290dp</dimen>
+    <dimen name="button">150dp</dimen>
+    <dimen name="margin">53dp</dimen>
 
 </resources>

@@ -1,0 +1,11 @@
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$id$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$drawable$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$layout$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$integer$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$dimen$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$dimen$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$styleable$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$string$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$mipmap$override.class
+CHANGED,C:\Users\Estudiante\Desktop\Salvameunicauca\Salvame_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\fabiannanez\salvame\R$style$override.class

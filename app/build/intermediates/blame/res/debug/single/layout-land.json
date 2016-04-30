@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_audio.xml",
+        "source": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_msm.xml",
+        "source": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_msm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_editar.xml",
+        "source": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_audio.xml",
+        "source": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Users\\Estudiante\\Desktop\\Salvameunicauca\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_msm.xml",
+        "source": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_msm.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_editar.xml",
+        "source": "C:\\Users\\fabiannanez\\AndroidStudioProjects\\Salvame_1\\app\\src\\main\\res\\layout-land\\activity_editar.xml"
+    }
+]

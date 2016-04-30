@@ -17,13 +17,12 @@
         style="@style/TextAppearance.AppCompat.Display2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GRABA TU MENSAJE"
+        android:text="@string/graba_tu_mensaje"
         android:textColor="@color/Blanco"
         android:layout_margin="@dimen/pequeños"
         />
 
     <ImageButton
-
         android:id="@+id/grabar"
         android:layout_width="@dimen/medium"
         android:layout_height="@dimen/medium"
